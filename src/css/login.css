@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    font-family: 'Inter', sans-serif;
+}
+.logo{
+    text-align: center;
+    margin-bottom: 128px;
+    margin-top: 45px;
+}
+h1{
+    font-size: 32px;
+    margin-left: 37px;
+    margin-top: 16px;
+}
+.main-content{
+    margin-left: 450px;
+}
+.back{
+    margin-left: 135px;
+    font-size: 18px;
+}
+.email{
+    margin-top: 19px;
+}
+.email input{
+    width: 400px;
+    height: 50px;
+    border: solid 2px #32b0d6;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding-left: 17px;
+}
+.password{
+    margin-top: 41px;
+}
+.password input{
+    width: 400px;
+    height: 50px;
+    border: solid 2px #32b0d6;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding-left: 17px;
+}
+.login{
+    margin-top: 25px;
+    background-color: 
+    #37A9CD;
+    width: 400px;
+    height: 50px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 6px;
+}
+.login a{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+button{
+    background-color: 
+    #37A9CD;
+    border: none;
+    color: white;
+}
+.login-gg{
+    margin-top: 25px;
+    background-color: #2D3748;
+    width: 400px;
+    height: 50px;
+    padding: 16px;
+    text-align: center;
+    border-radius: 6px;
+}
+.login-gg p img{
+    padding-right: 10px;
+     width: 25px;
+}
+.login-gg p a{
+    color: white;
+}
+.login-gg span{
+    color: black;
+}
+.login-gg span a{
+    color: #32b0d6;
+}
+.login-gg p{
+     margin-bottom: 32px;
+}
+h6 a{
+    font-size: 18px;
+    color: #37A9CD;
+}

@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+.logo{
+    margin-bottom: 128px;
+    margin-top: 45px;
+}
+.back{
+    font-size: 18px;
+}
+h1{
+    font-size: 32px;
+    margin-left: 37px;
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+.email input,.fullname input,.password input,.re-password input{
+    width: 400px;
+    height: 50px;
+    border: solid 2px #32b0d6;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    padding-left: 17px;
+}
+label{
+    margin-right: 300px;
+}
+.create{
+    margin-top: 25px;
+    background-color: 
+    #37A9CD;
+    width: 400px;
+    height: 50px;
+    margin: 0 auto;
+    padding: 15px;
+    margin-bottom: 318px;
+}
+button{
+    background-color: 
+    #37A9CD;
+    border: none;
+    color: white;
+}
+.create a{
+    color: white;
+    text-decoration: none;
+}
